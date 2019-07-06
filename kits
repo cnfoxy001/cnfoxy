@@ -1,0 +1,85 @@
+[RoutingRule]
+DOMAIN-SUFFIX, google.com, Proxy
+DOMAIN-SUFFIX, avhd101.com, Proxy
+DOMAIN-SUFFIX, fb.com, Proxy
+DOMAIN-SUFFIX, googleusercontent.com, Proxy
+DOMAIN-SUFFIX, voachinese.com, Proxy
+DOMAIN-SUFFIX, youtube.com, Proxy
+DOMAIN-SUFFIX, fb.com, Proxy
+DOMAIN-SUFFIX, goo.gl, Proxy
+DOMAIN-SUFFIX, fb.com, Proxy
+DOMAIN-SUFFIX, nyti.ms, Proxy
+DOMAIN-SUFFIX, nytimes.com, Proxy
+DOMAIN-SUFFIX, ytimg.com, Proxy
+DOMAIN-SUFFIX, ggpht.com, Proxy
+DOMAIN-SUFFIX, facebook.com, Proxy
+DOMAIN-SUFFIX, twitter.com, Proxy
+DOMAIN-SUFFIX, twimg.com, Proxy
+DOMAIN-SUFFIX, wsj.com, Proxy
+DOMAIN-SUFFIX, wsj.net, Proxy
+DOMAIN-SUFFIX, wsj.net, Proxy
+DOMAIN-SUFFIX, t.co, Proxy
+DOMAIN-SUFFIX, cloudfront.net, Proxy
+DOMAIN-SUFFIX, wsj.net, Proxy
+DOMAIN-SUFFIX, wsj.net, Proxy
+#BLOCK
+DOMAIN-SUFFIX, hm.baidu.com, Block
+DOMAIN-SUFFIX, www.googletagmanager.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, z2.cnzz.com, Block
+DOMAIN-SUFFIX, pos.baidu.com, Block
+DOMAIN-SUFFIX, doubleclick.com, Block
+DOMAIN-SUFFIX, eclick.baidu.com, Block
+DOMAIN-SUFFIX, eclick.baidu.com, Block
+DOMAIN-SUFFIX, eclick.baidu.com, Block
+DOMAIN-SUFFIX, iis1.deliver.ifeng.com, Block
+DOMAIN-SUFFIX, eclick.baidu.com, Block
+
+# Bypass mainland china domains.
+DOMAIN-KEYWORD, geosite:cn, Direct
+
+# Bypass mainland china IPs and LAN IPs.
+GEOIP, cn, Direct
+GEOIP, private, Direct
+
+# Other requests go through the proxy.
+FINAL, DIRECT
+
+[RoutingDomainStrategy]
+AsIs
+
+[FreedomDomainStrategy]
+AsIs
+
+[LocalPolicy]
+bufferSize = 4096
+connIdle = 300
+downlinkOnly = 0
+handshake = 4
+uplinkOnly = 0
+
+[DnsServer]
+223.5.5.5
+1.1.1.1
+
+[DnsRule]
+
+[DnsHost]
+
+[DnsClientIp]
+
+[Log]
+loglevel = none
+
+[PerAppVpn]
+
+[PerAppMode]
+
+[PerAppAllow]
+
+[PerAppDisallow]
