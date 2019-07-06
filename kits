@@ -1,27 +1,188 @@
 [RoutingRule]
-DOMAIN-SUFFIX, google.com, Proxy
-DOMAIN-SUFFIX, avhd101.com, Proxy
-DOMAIN-SUFFIX, fb.com, Proxy
-DOMAIN-SUFFIX, googleusercontent.com, Proxy
-DOMAIN-SUFFIX, voachinese.com, Proxy
-DOMAIN-SUFFIX, youtube.com, Proxy
-DOMAIN-SUFFIX, fb.com, Proxy
-DOMAIN-SUFFIX, goo.gl, Proxy
-DOMAIN-SUFFIX, fb.com, Proxy
-DOMAIN-SUFFIX, nyti.ms, Proxy
-DOMAIN-SUFFIX, nytimes.com, Proxy
-DOMAIN-SUFFIX, ytimg.com, Proxy
-DOMAIN-SUFFIX, ggpht.com, Proxy
-DOMAIN-SUFFIX, facebook.com, Proxy
-DOMAIN-SUFFIX, twitter.com, Proxy
-DOMAIN-SUFFIX, twimg.com, Proxy
-DOMAIN-SUFFIX, wsj.com, Proxy
-DOMAIN-SUFFIX, wsj.net, Proxy
-DOMAIN-SUFFIX, wsj.net, Proxy
-DOMAIN-SUFFIX, t.co, Proxy
-DOMAIN-SUFFIX, cloudfront.net, Proxy
-DOMAIN-SUFFIX, wsj.net, Proxy
-DOMAIN-SUFFIX, wsj.net, Proxy
+DOMAIN-SUFFIX,mega.co.nz,Proxy
+DOMAIN-SUFFIX,mega.nz,Proxy
+DOMAIN-SUFFIX,atlassian.com,Proxy
+DOMAIN-SUFFIX,whatav.com,Proxy
+DOMAIN-SUFFIX,emoneyspace.com,Proxy
+DOMAIN,s.w.org,Proxy
+DOMAIN,www.chaojiziyuan.com,Proxy
+IP-CIDR,112.25.90.132/24,REJECT
+DOMAIN,f2.xinjizhou.com,REJECT
+DOMAIN,static.mediav.com,REJECT 
+DOMAIN,s1.nzbdw.com,REJECT 
+DOMAIN-SUFFIX,s1.nzbdw.com,REJECT 
+DOMAIN-SUFFIX,pcunionreportlog.shaqm.com,REJECT 
+DOMAIN-SUFFIX,pcunionreportlog03.shaqm.com,REJECT 
+DOMAIN-SUFFIX,jaat3ax.site,REJECT
+DOMAIN-SUFFIX,zuidajiexi.net,REJECT
+DOMAIN-SUFFIX,laohu-zuida.com,REJECT
+DOMAIN-SUFFIX,r.zwtvw.cn,REJECT
+DOMAIN-SUFFIX,z2.cnzz.com,REJECT
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN,101fix.cc,Proxy
+DOMAIN,c1h-word-edit-15.cdn.office.net,Proxy
+DOMAIN,client-s.gateway.messenger.live.com,Proxy
+DOMAIN,browser.pipe.aria.microsoft.com,Proxy
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Proxy
+DOMAIN-SUFFIX,onedrive.live.com,Proxy
+DOMAIN-SUFFIX,ct.you.163.com,REJECT
+DOMAIN-SUFFIX,z7.cnzz.com,REJECT
+DOMAIN,ad.hzyoka.com,REJECT 
+DOMAIN-SUFFIX,comodoca.com,REJECT 
+DOMAIN-SUFFIX,lfhnkp.com,REJECT 
+DOMAIN-SUFFIX,pos.baidu.com,REJECT 
+DOMAIN-SUFFIX,netease.im,REJECT 
+IP-CIDR,124.225.65.170/24,REJECT
+DOMAIN-SUFFIX,i-pinimg-com.cdn.ampproject.org,Proxy 
+DOMAIN-SUFFIX,www-pinterest-com.cdn.ampproject.org,Proxy 
+DOMAIN-SUFFIX,avhd101.com,Proxy 
+DOMAIN-SUFFIX,pinterest.com,Proxy 
+DOMAIN-SUFFIX,xodyw.com,REJECT 
+DOMAIN-SUFFIX,Tradingview.com,Proxy
+DOMAIN-SUFFIX,trib.al,Proxy
+DOMAIN-SUFFIX,dwnews.net,Proxy
+DOMAIN-SUFFIX,chinainperspective.com,Proxy
+DOMAIN-SUFFIX,wallsttv.com,Proxy 
+DOMAIN,www.wandouys.com,Proxy 
+DOMAIN-SUFFIX,sdtbhbyb.com,REJECT 
+DOMAIN-SUFFIX,m.ixiaolu.com,REJECT
+DOMAIN-SUFFIX,wikipedia.org,Proxy
+DOMAIN-SUFFIX,mmshe.cc,Proxy 
+DOMAIN-SUFFIX,xvideos-cdn.com,Proxy 
+DOMAIN-SUFFIX,pornbest.org,Proxy 
+DOMAIN-SUFFIX,thisav.video,Proxy 
+DOMAIN-SUFFIX,avbebe.com,Proxy 
+DOMAIN-SUFFIX,patreon.com,Proxy 
+DOMAIN-SUFFIX,z2x5c8.com,Proxy 
+DOMAIN-SUFFIX,zodgame.us,Proxy 
+DOMAIN,www-v2ex-com.cdn.ampproject.org,Proxy 
+DOMAIN-SUFFIX,v2ex.com,Proxy 
+DOMAIN,ogate.org,Proxy
+DOMAIN,www.zhuichaguoji.org,Proxy
+DOMAIN,vue.backerkit.com,Proxy 
+DOMAIN,d1.18dao.cn,REJECT
+DOMAIN,d2.18dao.cn,REJECT
+DOMAIN,api.share.baidu.com,REJECT
+DOMAIN,max-l.mediav.com,REJECT
+DOMAIN,show.g.mediav.com,REJECT
+DOMAIN,material.mediav.com,REJECT
+DOMAIN,nsclick.baidu.com,REJECT
+DOMAIN,aterial.mediav.com,REJECT
+DOMAIN,a-cn.duoyi.com,REJECT 
+DOMAIN,www.myhug.cn,REJECT 
+DOMAIN,m.ixiaolu.com,REJECT 
+DOMAIN-SUFFIX,s19.cnzz.com,REJECT 
+DOMAIN-SUFFIX,z1.cnzz.com,REJECT 
+DOMAIN-SUFFIX,zi63m.cn,REJECT 
+DOMAIN-SUFFIX,csbthyhh.com,REJECT-TINYGIF 
+DOMAIN-SUFFIX,ysx8.vip,REJECT 
+DOMAIN-SUFFIX,em.baidu.com,REJECT 
+DOMAIN,www.ftchinese.com,Proxy
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,cby521.com,REJECT
+DOMAIN-SUFFIX,beiyuface.com,Proxy
+PROCESS-NAME,*tor browser*,Proxy
+DOMAIN-SUFFIX,torproject.org,Proxy 
+DOMAIN-SUFFIX,avkuso.com,Proxy
+DOMAIN-SUFFIX,love104.com,Proxy
+DOMAIN-SUFFIX,av104.tv,Proxy
+DOMAIN-SUFFIX,pixnet.net,Proxy
+DOMAIN-SUFFIX,duckduckgo.com,Proxy
+DOMAIN-SUFFIX,torproject.org,Proxy
+DOMAIN,zh.wikipedia.org,Proxy
+DOMAIN,d15chbti7ht62o.cloudfront.net,Proxy
+DOMAIN-SUFFIX,imgix.net,Proxy
+DOMAIN,wn.pos.baidu.com,REJECT
+DOMAIN,eclick.baidu.com,REJECT
+DOMAIN,cpro.baidustatic.com,REJECT
+DOMAIN-SUFFIX,bbc.co.uk,Proxy
+DOMAIN-SUFFIX,r18.com,Proxy 
+DOMAIN-SUFFIX,dmm.co.jp,Proxy 
+DOMAIN-SUFFIX,m.msujd.cn,REJECT 
+DOMAIN-SUFFIX,tm.ns388.com,REJECT 
+DOMAIN-SUFFIX,z9.cnzz.com,REJECT 
+DOMAIN-SUFFIX,c.cnzz.com,REJECT 
+DOMAIN-SUFFIX,mmstat.com,REJECT 
+DOMAIN-SUFFIX,m.ysgsq.cn,REJECT 
+DOMAIN-SUFFIX,ntd.tv,Proxy
+DOMAIN-SUFFIX,youmaker.com,Proxy
+DOMAIN-SUFFIX,epochtimes.com,Proxy
+DOMAIN-SUFFIX,upmedia.mg,Proxy
+DOMAIN-SUFFIX,amazon.co.jp,Proxy
+DOMAIN-SUFFIX,amp-orsoon-com.cdn.ampproject.org,Proxy 
+DOMAIN-SUFFIX,orsoon.com,Proxy 
+DOMAIN-SUFFIX,bandwagonhost.com,Proxy 
+DOMAIN-SUFFIX,teddysun.com,Proxy
+DOMAIN-SUFFIX,r18.com,Proxy 
+DOMAIN-SUFFIX,dmm.co.jp,Proxy 
+DOMAIN,www.googletagmanager.com,REJECT
+DOMAIN,push.zhanzhang.baidu.com,REJECT
+DOMAIN-SUFFIX,c-spanvideo.org,Proxy 
+DOMAIN-SUFFIX,gvt1.com,Proxy 
+DOMAIN-SUFFIX,s123.gcdn.info,Proxy 
+DOMAIN,ad.xo104.com,REJECT 
+DOMAIN-SUFFIX,google-analytics.com,REJECT 
+DOMAIN-SUFFIX,qooqlevideo.com,Proxy 
+DOMAIN-SUFFIX,dtscout.com,REJECT 
+DOMAIN-SUFFIX,sharethis.com,REJECT 
+DOMAIN-SUFFIX,addthis.com,REJECT 
+DOMAIN-SUFFIX,juicyads.com,REJECT 
+DOMAIN-SUFFIX,exosrv.com,REJECT 
+DOMAIN-SUFFIX,twimg.com,Proxy 
+DOMAIN-SUFFIX,avgle.com,Proxy 
+DOMAIN,us-std-00001.s3.amazonaws.com,Proxy 
+DOMAIN-SUFFIX,t.co,Proxy 
+DOMAIN-SUFFIX,twitter.com,Proxy 
+DOMAIN-SUFFIX,twimg.com,Proxy 
+DOMAIN-SUFFIX,twitter.com,Proxy 
+DOMAIN-SUFFIX,twimg.com,Proxy 
+DOMAIN-SUFFIX,chinanewscenter.com,Proxy 
+USER-AGENT,*Google%20%E6%96%B0%E9%97*,Proxy
+DOMAIN-SUFFIX,pigav.com,Proxy 
+DOMAIN-SUFFIX,rfi.fr,Proxy 
+DOMAIN-SUFFIX,zepeto.cn,Proxy 
+DOMAIN-SUFFIX,av-hot.tv,Proxy
+DOMAIN,m.pmshy.cn,REJECT 
+DOMAIN,s.360.cn,REJECT
+DOMAIN-SUFFIX,h9a9.top,REJECT
+DOMAIN,m.kyxnz.cn,REJECT
+DOMAIN,img.86yp.cn,REJECT
+DOMAIN,y.btdc8.cn,REJECT
+DOMAIN,img.uunak.cn,REJECT
+DOMAIN,img.xixiku.cn,REJECT
+DOMAIN,img.awnxiz.cn,REJECT
+DOMAIN-SUFFIX,avhot.tv,Proxy
+DOMAIN-SUFFIX,av-hot.tv,Proxy
+DOMAIN-SUFFIX,bongacams.com,Proxy
+DOMAIN-SUFFIX,avgle.com,Proxy
+DOMAIN-SUFFIX,twimg.com,Proxy
+DOMAIN-SUFFIX,shyav.com,Proxy
+DOMAIN-SUFFIX,vimeo.com,Proxy
+USER-AGENT,*Vimeo*,Proxy
+DOMAIN-SUFFIX,muscdn.com,Proxy
+DOMAIN-SUFFIX,snssdk.com,Proxy
+DOMAIN-KEYWORD,musical.ly,Proxy
+DOMAIN-SUFFIX,isnssdk.com,Proxy
+DOMAIN-SUFFIX,byteoversea.com,Proxy
+USER-AGENT,*TikTok*,Proxy
+DOMAIN-SUFFIX,cdninstagram.com,Proxy
+USER-AGENT,*Instagram*,Proxy
+DOMAIN-SUFFIX,instagram.com,Proxy
+DOMAIN-SUFFIX,redd.it,Proxy
+DOMAIN-SUFFIX,redditmedia.com:,Proxy
+DOMAIN-SUFFIX,redditstatic.com,Proxy
+DOMAIN-SUFFIX,reddit.com,Proxy
+USER-AGENT,*reddit*,Proxy
+DOMAIN-SUFFIX,tumblr.com,Proxy
+USER-AGENT,*tumblr*,Proxy
+DOMAIN-SUFFIX,neimanmarcus.com,Proxy
+USER-AGENT,*Twitter*,Proxy
+URL-REGEX,.*?pagead/adview[?]ai=.*?,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN,.*?noavatar_middle.gif.*?,REJECT
+DOMAIN-SUFFIX,hm.baidu.com,REJECT
+DOMAIN-SUFFIX,nssurge.com,Proxy
+URL-REGEX,.*?load[?]rf=http%253A%252F%252Fwww\.zuanke8\.com.*?,REJECT
 DOMAIN-SUFFIX,adservice.google.com,REJECT
 DOMAIN-SUFFIX,dw.com,Proxy
 DOMAIN-SUFFIX,bloomberg.com,Proxy
@@ -72,61 +233,14 @@ DOMAIN-SUFFIX,youtube-nocookie.com,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
 DOMAIN-SUFFIX,zacebook.com,Proxy
 DOMAIN-SUFFIX,zaobao.com.sg,Proxy
-DOMAIN-SUFFIX,avhot.tv,Proxy
-DOMAIN-SUFFIX,av-hot.tv,Proxy
-DOMAIN-SUFFIX,bongacams.com,Proxy
-DOMAIN-SUFFIX,avgle.com,Proxy
-DOMAIN-SUFFIX,twimg.com,Proxy
-DOMAIN-SUFFIX,shyav.com,Proxy
-DOMAIN-SUFFIX,vimeo.com,Proxy
-DOMAIN-SUFFIX,avkuso.com,Proxy
-DOMAIN-SUFFIX,love104.com,Proxy
-DOMAIN-SUFFIX,av104.tv,Proxy
-DOMAIN-SUFFIX,pixnet.net,Proxy
-DOMAIN-SUFFIX,duckduckgo.com,Proxy
-DOMAIN-SUFFIX,torproject.org,Proxy
-DOMAIN,zh.wikipedia.org,Proxy
-DOMAIN,d15chbti7ht62o.cloudfront.net,Proxy
-DOMAIN-SUFFIX,imgix.net,Proxy
-DOMAIN-SUFFIX,pornhub.com,Proxy
-
-#BLOCK
-DOMAIN-SUFFIX,jaat3ax.site,REJECT
-DOMAIN-SUFFIX,zuidajiexi.net,REJECT
-DOMAIN-SUFFIX,laohu-zuida.com,REJECT
-DOMAIN-SUFFIX,r.zwtvw.cn,REJECT
-DOMAIN-SUFFIX,z2.cnzz.com,REJECT
-DOMAIN-SUFFIX,jaat3ax.site,REJECT
-DOMAIN-SUFFIX,zuidajiexi.net,REJECT
-DOMAIN-SUFFIX,laohu-zuida.com,REJECT
-DOMAIN-SUFFIX,r.zwtvw.cn,REJECT
-DOMAIN-SUFFIX,z2.cnzz.com,REJECT
-DOMAIN,wn.pos.baidu.com,REJECT
-DOMAIN,eclick.baidu.com,REJECT
-DOMAIN,cpro.baidustatic.com,REJECT
-DOMAIN-SUFFIX,h9a9.top,REJECT
-DOMAIN,m.kyxnz.cn,REJECT
-DOMAIN,img.86yp.cn,REJECT
-DOMAIN,y.btdc8.cn,REJECT
-DOMAIN,img.uunak.cn,REJECT
-DOMAIN,img.xixiku.cn,REJECT
-DOMAIN,img.awnxiz.cn,REJECT
-DOMAIN-SUFFIX, hm.baidu.com, Block
-DOMAIN-SUFFIX, www.googletagmanager.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, z2.cnzz.com, Block
-DOMAIN-SUFFIX, pos.baidu.com, Block
-DOMAIN-SUFFIX, doubleclick.com, Block
-DOMAIN-SUFFIX, eclick.baidu.com, Block
-DOMAIN-SUFFIX, eclick.baidu.com, Block
-DOMAIN-SUFFIX, eclick.baidu.com, Block
-DOMAIN-SUFFIX, iis1.deliver.ifeng.com, Block
-DOMAIN-SUFFIX, eclick.baidu.com, Block
+IP-CIDR,91.108.4.0/22,Proxy,no-resolve
+IP-CIDR,91.108.56.0/22,Proxy,no-resolve
+IP-CIDR,109.239.140.0/24,Proxy,no-resolve
+IP-CIDR,149.154.160.0/20,Proxy,no-resolve
+IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
 
 # Bypass mainland china domains.
 DOMAIN-KEYWORD, geosite:cn, Direct
