@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,whatav.com,Proxy
 DOMAIN-SUFFIX,emoneyspace.com,Proxy
 DOMAIN,s.w.org,Proxy
 DOMAIN,www.chaojiziyuan.com,Proxy
-IP-CIDR,112.25.90.132/24,REJECT
 DOMAIN,f2.xinjizhou.com,REJECT
 DOMAIN,static.mediav.com,REJECT 
 DOMAIN,s1.nzbdw.com,REJECT 
@@ -32,7 +31,6 @@ DOMAIN-SUFFIX,comodoca.com,REJECT
 DOMAIN-SUFFIX,lfhnkp.com,REJECT 
 DOMAIN-SUFFIX,pos.baidu.com,REJECT 
 DOMAIN-SUFFIX,netease.im,REJECT 
-IP-CIDR,124.225.65.170/24,REJECT
 DOMAIN-SUFFIX,i-pinimg-com.cdn.ampproject.org,Proxy 
 DOMAIN-SUFFIX,www-pinterest-com.cdn.ampproject.org,Proxy 
 DOMAIN-SUFFIX,avhd101.com,Proxy 
@@ -81,7 +79,6 @@ DOMAIN,www.ftchinese.com,Proxy
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,cby521.com,REJECT
 DOMAIN-SUFFIX,beiyuface.com,Proxy
-PROCESS-NAME,*tor browser*,Proxy
 DOMAIN-SUFFIX,torproject.org,Proxy 
 DOMAIN-SUFFIX,avkuso.com,Proxy
 DOMAIN-SUFFIX,love104.com,Proxy
@@ -137,7 +134,6 @@ DOMAIN-SUFFIX,twimg.com,Proxy
 DOMAIN-SUFFIX,twitter.com,Proxy 
 DOMAIN-SUFFIX,twimg.com,Proxy 
 DOMAIN-SUFFIX,chinanewscenter.com,Proxy 
-USER-AGENT,*Google%20%E6%96%B0%E9%97*,Proxy
 DOMAIN-SUFFIX,pigav.com,Proxy 
 DOMAIN-SUFFIX,rfi.fr,Proxy 
 DOMAIN-SUFFIX,zepeto.cn,Proxy 
@@ -158,31 +154,23 @@ DOMAIN-SUFFIX,avgle.com,Proxy
 DOMAIN-SUFFIX,twimg.com,Proxy
 DOMAIN-SUFFIX,shyav.com,Proxy
 DOMAIN-SUFFIX,vimeo.com,Proxy
-USER-AGENT,*Vimeo*,Proxy
 DOMAIN-SUFFIX,muscdn.com,Proxy
 DOMAIN-SUFFIX,snssdk.com,Proxy
 DOMAIN-KEYWORD,musical.ly,Proxy
 DOMAIN-SUFFIX,isnssdk.com,Proxy
 DOMAIN-SUFFIX,byteoversea.com,Proxy
-USER-AGENT,*TikTok*,Proxy
 DOMAIN-SUFFIX,cdninstagram.com,Proxy
-USER-AGENT,*Instagram*,Proxy
 DOMAIN-SUFFIX,instagram.com,Proxy
 DOMAIN-SUFFIX,redd.it,Proxy
 DOMAIN-SUFFIX,redditmedia.com:,Proxy
 DOMAIN-SUFFIX,redditstatic.com,Proxy
 DOMAIN-SUFFIX,reddit.com,Proxy
-USER-AGENT,*reddit*,Proxy
 DOMAIN-SUFFIX,tumblr.com,Proxy
-USER-AGENT,*tumblr*,Proxy
 DOMAIN-SUFFIX,neimanmarcus.com,Proxy
-USER-AGENT,*Twitter*,Proxy
-URL-REGEX,.*?pagead/adview[?]ai=.*?,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN,.*?noavatar_middle.gif.*?,REJECT
 DOMAIN-SUFFIX,hm.baidu.com,REJECT
 DOMAIN-SUFFIX,nssurge.com,Proxy
-URL-REGEX,.*?load[?]rf=http%253A%252F%252Fwww\.zuanke8\.com.*?,REJECT
 DOMAIN-SUFFIX,adservice.google.com,REJECT
 DOMAIN-SUFFIX,dw.com,Proxy
 DOMAIN-SUFFIX,bloomberg.com,Proxy
@@ -233,11 +221,7 @@ DOMAIN-SUFFIX,youtube-nocookie.com,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
 DOMAIN-SUFFIX,zacebook.com,Proxy
 DOMAIN-SUFFIX,zaobao.com.sg,Proxy
-IP-CIDR,91.108.4.0/22,Proxy,no-resolve
-IP-CIDR,91.108.56.0/22,Proxy,no-resolve
-IP-CIDR,109.239.140.0/24,Proxy,no-resolve
-IP-CIDR,149.154.160.0/20,Proxy,no-resolve
-IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,192.168.0.0/16,DIRECT
