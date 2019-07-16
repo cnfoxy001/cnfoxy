@@ -38,14 +38,11 @@ DOMAIN-SUFFIX,cdn.ampproject.org,Proxy
 DOMAIN-SUFFIX,avhd101.com,Proxy
 DOMAIN-SUFFIX,pinterest.com,Proxy
 DOMAIN-SUFFIX,xodyw.com,REJECT
-DOMAIN-SUFFIX,Tradingview.com,Proxy
 DOMAIN-SUFFIX,trib.al,Proxy
 DOMAIN-SUFFIX,dwnews.net,Proxy
 DOMAIN-SUFFIX,chinainperspective.com,Proxy
 DOMAIN-SUFFIX,wallsttv.com,Proxy
 DOMAIN,www.wandouys.com,Proxy
-RULE-SET,LAN,DIRECT
-RULE-SET,SYSTEM,DIRECT
 DOMAIN-SUFFIX,sdtbhbyb.com,REJECT
 DOMAIN-SUFFIX,m.ixiaolu.com,REJECT
 DOMAIN-SUFFIX,wikipedia.org,Proxy
