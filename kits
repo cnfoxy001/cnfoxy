@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,laohu-zuida.com,REJECT
 DOMAIN-SUFFIX,r.zwtvw.cn,REJECT
 DOMAIN-SUFFIX,z2.cnzz.com,REJECT
 DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN,t.co,Proxy
 DOMAIN,101fix.cc,Proxy
 DOMAIN-SUFFIX,cdn.office.net,Proxy
 DOMAIN-SUFFIX,messenger.live.com,Proxy
