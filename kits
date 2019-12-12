@@ -1,4 +1,5 @@
 [RoutingRule]
+DOMAIN,raw.githubusercontent.com,Proxy
 DOMAIN-SUFFIX,bet365.com,Proxy
 DOMAIN,github.com,Proxy
 DOMAIN-SUFFIX,google.com.tw,Proxy
