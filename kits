@@ -1,8 +1,8 @@
 [RoutingRule]
 DOMAIN-KEYWORD,geosite:google,VMess
 DOMAIN-KEYWORD,geosite:cn,Direct
-DOMAIN-SUFFIX,ssr.tools,VMess
-DOMAIN-SUFFIX,pushbullet.com,VMess
+DOMAIN-KEYWORD,ssr.tools,VMess
+DOMAIN-KEYWORD,pushbullet.com,VMess
 DOMAIN,101fix.cc,VMess 
 
 FINAL,Direct
