@@ -1,9 +1,9 @@
 [RoutingRule]
-DOMAIN-KEYWORD, geosite:google, Proxy
-DOMAIN-KEYWORD, geosite:cn, Direct
-DOMAIN-SUFFIX,ssr.tools,Proxy
-DOMAIN-SUFFIX,pushbullet.com,Proxy
-DOMAIN,101fix.cc,Proxy
+DOMAIN-KEYWORD,geosite:google,VMess
+DOMAIN-KEYWORD,geosite:cn,Direct
+DOMAIN-SUFFIX,ssr.tools,VMess
+DOMAIN-SUFFIX,pushbullet.com,VMess
+DOMAIN,101fix.cc,VMess 
 
 FINAL,Direct
 
