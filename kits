@@ -1,16 +1,7 @@
 [RoutingRule]
-DOMAIN-KEYWORD,geosite:google,VMess
-DOMAIN-KEYWORD,geosite:cn,Direct
-DOMAIN-KEYWORD,ssr.tools,VMess
-DOMAIN-KEYWORD,pushbullet.com,VMess
-DOMAIN,101fix.cc,VMess 
-
-FINAL,Direct
+FINAL, Proxy
 
 [RoutingDomainStrategy]
-AsIs
-
-[FreedomDomainStrategy]
 AsIs
 
 [LocalPolicy]
@@ -22,21 +13,34 @@ uplinkOnly = 0
 
 [DnsServer]
 223.5.5.5
-1.1.1.1
+8.8.8.8, 53, Remote
 
 [DnsRule]
+DOMAIN-KEYWORD, google, Remote
+DOMAIN-SUFFIX, fb.com, Remote
 
 [DnsHost]
+geosite:category-ads-all = 127.0.0.1
 
 [DnsClientIp]
+115.239.211.92
 
 [Log]
+# debug/info/warning/error/none
 loglevel = none
 
 [PerAppVpn]
+# On/Off
+Off
 
 [PerAppMode]
+# Allow/Disallow
+Allow
 
 [PerAppAllow]
+# Regex expressions to match package names.
+.*google.*
+.*twitter.*
 
 [PerAppDisallow]
+.*tencent.*
