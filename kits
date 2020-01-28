@@ -1,5 +1,9 @@
 [RoutingRule]
-FINAL, Proxy
+DOMAIN-SUFFIX,ssr.tools,Proxy
+DOMAIN-SUFFIX,pushbullet.com,Proxy
+DOMAIN-KEYWORD, geosite:google, Proxy
+DOMAIN-KEYWORD, geosite:cn, Direct
+FINAL, Direct
 
 [RoutingDomainStrategy]
 AsIs
