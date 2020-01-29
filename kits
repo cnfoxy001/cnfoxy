@@ -997,6 +997,7 @@ Disallow
 [PerAppDisallow]
 com.oem.nfc
 .*okex
+.*finshell.*
 .*okex.*
 .*autonavi.*
 .*smartfolder.*
