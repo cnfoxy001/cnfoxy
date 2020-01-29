@@ -995,6 +995,13 @@ Disallow
 [PerAppAllow]
 
 [PerAppDisallow]
+com.oem.nfc
+.*okex
+.*okex.*
+.*autonavi.*
+.*smartfolder.*
+.*dianping.*
+.*oneplus.*
 .*tencent.*
 .*wps.*
 .*unionpay.*
