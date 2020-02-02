@@ -1,4 +1,5 @@
 [RoutingRule]
+DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-KEYWORD, geosite:google, Proxy
 DOMAIN-KEYWORD, geosite:cn, Direct
 DOMAIN-SUFFIX,ssr.tools,Proxy
