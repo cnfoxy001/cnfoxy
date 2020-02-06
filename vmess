@@ -191,7 +191,6 @@ DOMAIN-SUFFIX,lptag.liveperson.net,Proxy
 DOMAIN-SUFFIX,manifest.prod.boltdns.net,Proxy
 DOMAIN-SUFFIX,news.ycombinator.com,Proxy
 DOMAIN-SUFFIX,ogate.org,Proxy
-DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
 DOMAIN-SUFFIX,s.w.org,Proxy
 DOMAIN-SUFFIX,s3.amazonaws.com,Proxy
 DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,Proxy
