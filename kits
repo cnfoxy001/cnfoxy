@@ -1014,5 +1014,6 @@ Allow
 .*feedly
 .*vending
 .*kitsunebi.*
+.*chrome
 
 [PerAppDisallow]
