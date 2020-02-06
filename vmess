@@ -1006,8 +1006,8 @@ On
 Allow
 
 [PerAppAllow]
-*.google.*
-*.telegram.*
-*.twitter.*
+.*google.*
+.*telegram.*
+.*twitter.*
 
 [PerAppDisallow]
