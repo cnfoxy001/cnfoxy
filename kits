@@ -1013,7 +1013,8 @@ Allow
 .*twitter.*
 .*feedly
 .*vending
-.*kitsunebi.*
+.*kitsunebi4android
+.*downloads
 .*chrome
 
 [PerAppDisallow]
