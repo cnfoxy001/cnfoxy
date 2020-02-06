@@ -840,19 +840,19 @@ DOMAIN-SUFFIX,zerohedge.com,Proxy
 DOMAIN-SUFFIX,zeronet.io,Proxy
 DOMAIN-SUFFIX,zodgame.us,Proxy
 DOMAIN-SUFFIX,zoom.us,Proxy
-DOMAIN-KEYWORD, geosite:google,Proxy
-DOMAIN-KEYWORD, geosite:github,Proxy
-DOMAIN-KEYWORD, geosite:netflix,Proxy
-DOMAIN-KEYWORD, geosite:steam,Proxy
-DOMAIN-KEYWORD, geosite:telegram,Proxy
-DOMAIN-KEYWORD, geosite:tumblr,Proxy
-DOMAIN-KEYWORD, geosite:speedtest,Proxy
-DOMAIN-KEYWORD, geosite:bbc,Proxy
-DOMAIN-KEYWORD, domain:gvt1.com,Proxy
-DOMAIN-KEYWORD, domain:textnow.com,Proxy
-DOMAIN-KEYWORD, domain:twitch.tv,Proxy
-DOMAIN-KEYWORD, domain:wikileaks.org,Proxy
-DOMAIN-KEYWORD, domain:naver.com,Proxy
+DOMAIN-KEYWORD,geosite:google,Proxy
+DOMAIN-KEYWORD,geosite:github,Proxy
+DOMAIN-KEYWORD,geosite:netflix,Proxy
+DOMAIN-KEYWORD,geosite:steam,Proxy
+DOMAIN-KEYWORD,geosite:telegram,Proxy
+DOMAIN-KEYWORD,geosite:tumblr,Proxy
+DOMAIN-KEYWORD,geosite:speedtest,Proxy
+DOMAIN-KEYWORD,geosite:bbc,Proxy
+DOMAIN-KEYWORD,domain:gvt1.com,Proxy
+DOMAIN-KEYWORD,domain:textnow.com,Proxy
+DOMAIN-KEYWORD,domain:twitch.tv,Proxy
+DOMAIN-KEYWORD,domain:wikileaks.org,Proxy
+DOMAIN-KEYWORD,domain:naver.com,Proxy
 #Direct
 DOMAIN-SUFFIX,download.jetbrains.com,Direct
 DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com,Direct
@@ -968,9 +968,9 @@ DOMAIN-SUFFIX,zhihu.com,Direct
 DOMAIN-SUFFIX,zhimg.com,Direct
 DOMAIN-SUFFIX,zhuihd.com,Direct
 DOMAIN-SUFFIX,zuanke8.com,Direct
-GEOIP, cn, Direct
-GEOIP, private, Direct
-FINAL, Proxy
+GEOIP,cn,Direct
+GEOIP,private,Direct
+FINAL,Proxy
 
 [RoutingDomainStrategy]
 AsIs
@@ -987,7 +987,7 @@ uplinkOnly = 0
 
 [DnsServer]
 223.5.5.5
-1.1.1.1
+8.8.8.8,53
 
 [DnsRule]
 
@@ -999,9 +999,14 @@ uplinkOnly = 0
 loglevel = none
 
 [PerAppVpn]
+On
 
 [PerAppMode]
+Allow
 
 [PerAppAllow]
+*.google.*
+*.telegram.*
+*.twitter.*
 
 [PerAppDisallow]
