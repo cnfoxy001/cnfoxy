@@ -1011,5 +1011,8 @@ Allow
 .*google.*
 .*telegram.*
 .*twitter.*
+.*feedly
+.*vending
+.*kitsunebi.*
 
 [PerAppDisallow]
