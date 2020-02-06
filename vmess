@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,zhzzx.com,Reject
 DOMAIN-SUFFIX,zi63m.cn,Reject
 DOMAIN-SUFFIX,zuidajiexi.net,Reject
 #Proxy
+DOMAIN-SUFFIX,githubusercontent.com,Proxy
 DOMAIN-SUFFIX,233v2.com,Proxy
 DOMAIN-SUFFIX,creaders.net,Proxy
 DOMAIN-SUFFIX,flipboard.com,Proxy
