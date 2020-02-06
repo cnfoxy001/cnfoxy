@@ -1,14 +1,11 @@
 [RoutingRule]
-DOMAIN-KEYWORD, geosite:google, Proxy
+#Block
 
-# Bypass mainland china domains.
-DOMAIN-KEYWORD, geosite:cn, Direct
+#Proxy
 
-# Bypass mainland china IPs and LAN IPs.
+#Direct
 GEOIP, cn, Direct
 GEOIP, private, Direct
-
-# Other requests go through the proxy.
 FINAL, Proxy
 
 [RoutingDomainStrategy]
