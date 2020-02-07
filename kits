@@ -1027,5 +1027,5 @@ Allow
 .*kitsunebi4android
 .*downloads
 .*chrome
-
+.*firefox
 [PerAppDisallow]
