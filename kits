@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,zhzzx.com,Reject
 DOMAIN-SUFFIX,zi63m.cn,Reject
 DOMAIN-SUFFIX,zuidajiexi.net,Reject
 #Proxy
+DOMAIN-SUFFIX,six-degrees.io,Proxy
 DOMAIN-SUFFIX,6do.news,Proxy
 DOMAIN-SUFFIX,githubusercontent.com,Proxy
 DOMAIN-SUFFIX,233v2.com,Proxy
