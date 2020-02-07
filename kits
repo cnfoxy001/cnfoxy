@@ -975,7 +975,7 @@ DOMAIN-SUFFIX,zhuihd.com,Direct
 DOMAIN-SUFFIX,zuanke8.com,Direct
 GEOIP,cn,Direct
 GEOIP,private,Direct
-FINAL,Proxy
+FINAL,Direct
 
 [RoutingDomainStrategy]
 AsIs
