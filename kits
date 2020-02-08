@@ -162,6 +162,7 @@ IP-CIDR,149.154.160.0/20,Proxy
 IP-CIDR,149.154.172.0/22,Proxy
 IP-CIDR,109.239.140.0/24,Proxy
 DOMAIN-SUFFIX,rfa.org,Proxy
+DOMAIN-SUFFIX,webtoons.com,Proxy
 DOMAIN-SUFFIX,six-degrees.io,Proxy
 DOMAIN-SUFFIX,6do.news,Proxy
 DOMAIN-SUFFIX,githubusercontent.com,Proxy
