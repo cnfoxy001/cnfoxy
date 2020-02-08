@@ -1,5 +1,7 @@
 [RoutingRule]
 #Block
+DOMAIN-SUFFIX,www.x70e.com,Reject
+DOMAIN-SUFFIX,51.la,Reject
 DOMAIN-SUFFIX,vpn.youyisheng.net,Reject
 DOMAIN-SUFFIX,statuse.digitalcertvalidation.com,Reject
 DOMAIN-SUFFIX,wxvip.ltaoer.com,Reject
