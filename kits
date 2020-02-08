@@ -1,8 +1,8 @@
 [RoutingRule]
 #Block
-DOMAIN-SUFFIX,www.x70e.com,Reject
+DOMAIN-SUFFIX,x70e.com,Reject
 DOMAIN-SUFFIX,51.la,Reject
-DOMAIN-SUFFIX,vpn.youyisheng.net,Reject
+DOMAIN-SUFFIX,youyisheng.net,Reject
 DOMAIN-SUFFIX,statuse.digitalcertvalidation.com,Reject
 DOMAIN-SUFFIX,wxvip.ltaoer.com,Reject
 DOMAIN-SUFFIX,cds.taboola.com,Reject
