@@ -1,5 +1,6 @@
 [RoutingRule]
 #Block
+DOMAIN-SUFFIX,xiongzhangad.com,Reject
 DOMAIN-SUFFIX,s4.cnzz.com,Reject
 DOMAIN-SUFFIX,zz.bdstatic.com,Reject
 DOMAIN-SUFFIX,celueziben.com,Reject
