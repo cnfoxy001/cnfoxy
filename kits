@@ -1,5 +1,7 @@
 [RoutingRule]
 #Block
+DOMAIN-SUFFIX,statuse.digitalcertvalidation.com,Reject
+DOMAIN-SUFFIX,wxvip.ltaoer.com,Reject
 DOMAIN-SUFFIX,cds.taboola.com,Reject
 DOMAIN-SUFFIX,sb.scorecardresearch.com,Reject
 DOMAIN-SUFFIX,trc.taboola.com,Reject
