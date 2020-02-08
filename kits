@@ -1040,4 +1040,5 @@ Allow
 .*downloads
 .*chrome
 .*firefox
+.*tradingview.*
 [PerAppDisallow]
