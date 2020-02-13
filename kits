@@ -1043,6 +1043,7 @@ Disallow
 .*?vmall.*?
 .*?dianping.*?
 .*?tianyancha.*?
+.*?okex
 .*?hexin.*?
 .*?nomo
 .*?openid
