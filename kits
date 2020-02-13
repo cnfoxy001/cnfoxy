@@ -935,6 +935,7 @@ Disallow
 .*?phone
 .*?baidu.*?
 .*?ele
+.*?oneplus.*?
 .*?superb
 .*?zhihu.*?
 .*?szzc.*?
