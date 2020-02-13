@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,y.btdc8.cn,Reject
 DOMAIN-SUFFIX,z.moatads.com,Reject
 DOMAIN-SUFFIX,z13.cnzz.com,Reject
 DOMAIN-SUFFIX,z4.cnzz.com,Reject
-DOMAIN-SUFFIX,www.googletagservices.com,Reject
 DOMAIN-SUFFIX,0796gou.com,Reject
 DOMAIN-SUFFIX,4009997658.com,Reject
 DOMAIN-SUFFIX,a0usa.top,Reject
@@ -95,7 +94,6 @@ DOMAIN-SUFFIX,flash.cn,Reject
 DOMAIN-SUFFIX,flstudiochina.com,Reject
 DOMAIN-SUFFIX,formysql.com,Reject
 DOMAIN-SUFFIX,google-analytics.com,Reject
-DOMAIN-SUFFIX,googlesyndication.com,Reject
 DOMAIN-SUFFIX,guitarpro.cc,Reject
 DOMAIN-SUFFIX,h9a9.top,Reject
 DOMAIN-SUFFIX,hm.baidu.com,Reject
@@ -483,7 +481,7 @@ DOMAIN-SUFFIX,google.com,Proxy
 DOMAIN-SUFFIX,google.com.hk,Proxy
 DOMAIN-SUFFIX,google.com.ph,Proxy
 DOMAIN-SUFFIX,google.com.tw,Proxy
-DOMAIN-SUFFIX,google-analytics.com,Proxy
+DOMAIN-SUFFIX,google.co.jp,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-SUFFIX,googletagmanager.com,Proxy
 DOMAIN-SUFFIX,googletagservices.com,Proxy
