@@ -1031,11 +1031,9 @@ Disallow
 [PerAppAllow]
 
 [PerAppDisallow]
-.*?ltebc
 .*?rdc.*?
 .*?nfc
 .*?recognition
-.*?oneplus.*?
 .*?tencent.*?
 .*?webalert.*?
 .*?jingdong.*?
