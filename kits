@@ -1046,7 +1046,6 @@ Disallow
 .*?okex
 .*?hexin.*?
 .*?nomo
-.*?openid
 .*?sina.*?
 .*?tmall.*?
 .*?pinduoduo
