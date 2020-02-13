@@ -1029,6 +1029,8 @@ On
 Allow
 
 [PerAppAllow]
+.*browser
+.*proxy.*
 .*google.*
 .*telegram.*
 .*twitter.*
