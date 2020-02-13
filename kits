@@ -31,7 +31,7 @@ IP-CIDR,149.154.172.0/22,Proxy
 IP-CIDR,109.239.140.0/24,Proxy
 #Block
 DOMAIN-SUFFIX,xiongzhangad.com,Reject
-DOMAIN-SUFFIX,s4.cnzz.com,Reject
+DOMAIN-SUFFIX,cnzz.com,Reject
 DOMAIN-SUFFIX,zz.bdstatic.com,Reject
 DOMAIN-SUFFIX,celueziben.com,Reject
 DOMAIN-SUFFIX,fjsjsj.com,Reject
@@ -83,13 +83,10 @@ DOMAIN-SUFFIX,sync.teads.tv,Reject
 DOMAIN-SUFFIX,t.mseupdate.xyz,Reject
 DOMAIN-SUFFIX,user.www.gov.cn,Reject
 DOMAIN-SUFFIX,v2.uyan.cc,Reject
-DOMAIN-SUFFIX,w.cnzz.com,Reject
 DOMAIN-SUFFIX,wn.pos.baidu.com,Reject
 DOMAIN-SUFFIX,www.myhug.cn,Reject
 DOMAIN-SUFFIX,y.btdc8.cn,Reject
 DOMAIN-SUFFIX,z.moatads.com,Reject
-DOMAIN-SUFFIX,z13.cnzz.com,Reject
-DOMAIN-SUFFIX,z4.cnzz.com,Reject
 DOMAIN-SUFFIX,0796gou.com,Reject
 DOMAIN-SUFFIX,4009997658.com,Reject
 DOMAIN-SUFFIX,a0usa.top,Reject
@@ -101,7 +98,6 @@ DOMAIN-SUFFIX,bejzz.top,Reject
 DOMAIN-SUFFIX,betterzip.net,Reject
 DOMAIN-SUFFIX,beyondcompare.cc,Reject
 DOMAIN-SUFFIX,bingdianhuanyuan.cn,Reject
-DOMAIN-SUFFIX,c.cnzz.com,Reject
 DOMAIN-SUFFIX,cby521.com,Reject
 DOMAIN-SUFFIX,chemdraw.com.cn,Reject
 DOMAIN-SUFFIX,cjmakeding.com,Reject
@@ -167,13 +163,11 @@ DOMAIN-SUFFIX,pcunionreportlog03.shaqm.com,Reject
 DOMAIN-SUFFIX,pdfexpert.cc,Reject
 DOMAIN-SUFFIX,photozoomchina.com,Reject
 DOMAIN-SUFFIX,pos.baidu.com,Reject
-DOMAIN-SUFFIX,r.zwtvw.cn,Reject
-DOMAIN-SUFFIX,s1.nzbdw.com,Reject
-DOMAIN-SUFFIX,s19.cnzz.com,Reject
+DOMAIN-SUFFIX,zwtvw.cn,Reject
 DOMAIN-SUFFIX,sdtbhbyb.com,Reject
 DOMAIN-SUFFIX,shankejingling.com,Reject
 DOMAIN-SUFFIX,sharethis.com,Reject
-DOMAIN-SUFFIX,tm.ns388.com,Reject
+DOMAIN-SUFFIX,ns388.com,Reject
 DOMAIN-SUFFIX,ultraiso.net,Reject
 DOMAIN-SUFFIX,vegaschina.cn,Reject
 DOMAIN-SUFFIX,xmindchina.net,Reject
@@ -183,10 +177,6 @@ DOMAIN-SUFFIX,yastatic.net,Reject
 DOMAIN-SUFFIX,yihuifu.cn,Reject
 DOMAIN-SUFFIX,ysx8.vip,Reject
 DOMAIN-SUFFIX,yuanchengxiezuo.com,Reject
-DOMAIN-SUFFIX,z1.cnzz.com,Reject
-DOMAIN-SUFFIX,z2.cnzz.com,Reject
-DOMAIN-SUFFIX,z7.cnzz.com,Reject
-DOMAIN-SUFFIX,z9.cnzz.com,Reject
 DOMAIN-SUFFIX,zbrushcn.com,Reject
 DOMAIN-SUFFIX,zhzzx.com,Reject
 DOMAIN-SUFFIX,zi63m.cn,Reject
