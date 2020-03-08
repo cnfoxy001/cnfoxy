@@ -915,3 +915,24 @@ Disallow
 
 [PerAppDisallow]
 com.youku.phone
+com.yiwang
+com.aicoin.phone
+com.campmobile.snowcamera
+com.qti.ltebc
+.*oneplus.*
+.*tencent.*
+.*webalert.*
+cn.wps.*
+com.unionpay
+com.saicmobility.user
+com.jingdong.app.mall
+com.jd.pingou
+com.lemon.tv
+com.vmall.client
+com.oneplus.card
+me.webalert
+tv.danmaku.bili
+com.ximalaya.ting.android
+com.dianping.v1
+com.alibaba.ailabs.tg
+com.nearme.atlas
