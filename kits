@@ -471,6 +471,7 @@ DOMAIN-SUFFIX,google.com.ph,Proxy
 DOMAIN-SUFFIX,google.com.tw,Proxy
 DOMAIN-SUFFIX,google.co.jp,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
+DOMAIN-SUFFIX,googleapis.cn,Proxy
 DOMAIN-SUFFIX,googletagmanager.com,Proxy
 DOMAIN-SUFFIX,googletagservices.com,Proxy
 DOMAIN-SUFFIX,googleusercontent.com,Proxy
