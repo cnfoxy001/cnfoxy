@@ -895,7 +895,7 @@ handshake = 4
 uplinkOnly = 0
 
 [DnsServer]
-223.5.5.5
+8.8.8.8,53
 
 [DnsRule]
 
