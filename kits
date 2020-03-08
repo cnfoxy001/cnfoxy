@@ -913,3 +913,4 @@ Disallow
 [PerAppAllow]
 
 [PerAppDisallow]
+com.youku.phone
