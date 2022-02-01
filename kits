@@ -1,6 +1,8 @@
 [Rule]
 #拒绝连接
 DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,51gowan.com,REJECT
+DOMAIN-SUFFIX,qqq-www-987.site,REJECT
 DOMAIN-SUFFIX,qsmdeyz.cn,REJECT 
 DOMAIN-SUFFIX,hhmh109.com,REJECT 
 DOMAIN-SUFFIX,dakawm.cc,REJECT
