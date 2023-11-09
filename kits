@@ -200,12 +200,12 @@ Allow
 
 [PerAppAllow]
 # Regex expressions to match package names.
-.*google.*
-.*twitter.*
-.*vending
-.*kitsubebi.*
-.*microsoft.*
-.*openai.*
+.*?google.*?
+.*?twitter.*?
+.*?vending
+.*?kitsubebi.*?
+.*?microsoft.*?
+.*?openai.*?
 
 [PerAppDisallow]
-.*tencent.*
+.*?tencent.*?
