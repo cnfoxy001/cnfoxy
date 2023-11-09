@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,githubassets.com,Proxy
 DOMAIN-SUFFIX,oaistatic.com,Proxy
 DOMAIN-SUFFIX,apkpure.com,Proxy
 DOMAIN-SUFFIX,vultr.com,Proxy
-DOMAIN-KEYWORD,statsigapi.net,Proxy
+DOMAIN-SUFFIX,statsigapi.net,Proxy
 DOMAIN-SUFFIX,cloudflareclient.com,Proxy
 DOMAIN-SUFFIX,newsbreakapp.com,Proxy
 DOMAIN-SUFFIX,axios.com,Proxy
@@ -204,7 +204,7 @@ Allow
 .*?google.*?
 .*?twitter.*?
 .*?vending
-.*?kitsubebi.*?
+.*?kitsunebi.*?
 .*?microsoft.*?
 .*?openai.*?
  
