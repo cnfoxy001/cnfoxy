@@ -1,5 +1,4 @@
 [RoutingRule]
-#代理连接
 DOMAIN-SUFFIX,msn.com,Proxy
 DOMAIN-SUFFIX,scholar-ai.net,Proxy
 DOMAIN-SUFFIX,redstarplugin.com,Proxy
