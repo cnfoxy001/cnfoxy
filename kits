@@ -1,4 +1,6 @@
 [RoutingRule]
+DOMAIN-SUFFIX,poe.com,Proxy
+DOMAIN-SUFFIX,perplexity.ai,Proxy
 DOMAIN-SUFFIX,msn.com,Proxy
 DOMAIN-SUFFIX,scholar-ai.net,Proxy
 DOMAIN-SUFFIX,redstarplugin.com,Proxy
