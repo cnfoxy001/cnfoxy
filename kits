@@ -1,5 +1,10 @@
 [RoutingRule]
 #代理连接
+DOMAIN-SUFFIX,msn.com,Proxy
+DOMAIN-SUFFIX,scholar-ai.net,Proxy
+DOMAIN-SUFFIX,redstarplugin.com,Proxy
+DOMAIN-SUFFIX,opera.com,Proxy
+DOMAIN-SUFFIX,oaistatic.com,Proxy
 DOMAIN-SUFFIX,openai.com,Proxy
 DOMAIN-SUFFIX,bing.com,Proxy
 DOMAIN-SUFFIX,githubassets.com,Proxy
