@@ -206,6 +206,6 @@ Allow
 .*?kitsubebi.*?
 .*?microsoft.*?
 .*?openai.*?
-
+ 
 [PerAppDisallow]
 .*?tencent.*?
