@@ -192,7 +192,7 @@ loglevel = none
 
 [PerAppVpn]
 # On/Off
-Off
+On
 
 [PerAppMode]
 # Allow/Disallow
@@ -200,8 +200,13 @@ Allow
 
 [PerAppAllow]
 # Regex expressions to match package names.
-.*google.*
+com.google.*
 .*twitter.*
+com.android.vending
+fun.kitsubebi.*
+com.microsoft.emmx
+com.microsoft.bing
+com.openai.*
 
 [PerAppDisallow]
 .*tencent.*
