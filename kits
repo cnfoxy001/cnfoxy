@@ -1,4 +1,5 @@
 [RoutingRule]
+DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-SUFFIX,slack.com,Proxy
 DOMAIN-SUFFIX,anthropic.com,Proxy
 DOMAIN-SUFFIX,sentry.io,Proxy
