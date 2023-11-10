@@ -2,6 +2,7 @@
 IP-CIDR,128.199.0.0/16,Proxy
 IP-CIDR,159.89.0.0/16,Proxy
 IP-CIDR,167.71.0.0/16,Proxy
+DOMAIN-SUFFIX,google.com.sg,Proxy
 DOMAIN-SUFFIX,livekit.cloud,Proxy
 DOMAIN-SUFFIX,googlevideo.com,Proxy
 DOMAIN-SUFFIX,run.app,Proxy
