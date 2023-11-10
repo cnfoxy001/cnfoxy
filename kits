@@ -1,5 +1,6 @@
 [RoutingRule]
 DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,run.app,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-SUFFIX,slack.com,Proxy
 DOMAIN-SUFFIX,anthropic.com,Proxy
