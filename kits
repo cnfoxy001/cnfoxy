@@ -1,4 +1,5 @@
 [RoutingRule]
+DOMAIN-SUFFIX,livekit.cloud,Proxy
 DOMAIN-SUFFIX,googlevideo.com,Proxy
 DOMAIN-SUFFIX,run.app,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
