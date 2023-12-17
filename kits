@@ -1,10 +1,17 @@
 [RoutingRule]
+IP-CIDR,143.198.0.0/16,Proxy
+IP-CIDR,206.189.0.0/16,Proxy
+IP-CIDR,146.190.0.0/16,Proxy
 IP-CIDR,128.199.0.0/16,Proxy
 IP-CIDR,159.89.0.0/16,Proxy
 IP-CIDR,167.71.0.0/16,Proxy
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,Proxy
+DOMAIN-SUFFIX,statsig.com,Proxy
 DOMAIN-SUFFIX,google.com.sg,Proxy
+DOMAIN-SUFFIX,googleusercontent.com,Proxy
 DOMAIN-SUFFIX,livekit.cloud,Proxy
 DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,binance.com,Proxy
 DOMAIN-SUFFIX,run.app,Proxy
 DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-SUFFIX,slack.com,Proxy
@@ -234,6 +241,7 @@ Allow
 # Regex expressions to match package names.
 .*google.*
 .*twitter.*
+.*chrome
 
 [PerAppDisallow]
 .*tencent.*// This is only a sample rule set.
