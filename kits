@@ -296,6 +296,8 @@ Allow
 .*?kitsunebi.*?
 .*?microsoft.*?
 .*?openai.*?
- 
+com.android.chrome
+com.android.vending
+
 [PerAppDisallow]
 .*?tencent.*?
